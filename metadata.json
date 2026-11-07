@@ -1,0 +1,8 @@
+{
+  "name": "STUDYVERSE 2.0",
+  "description": "Explore Knowledge. Unlock Your Potential. A Grade 7 educational platform with full curriculum alignment, interactive lessons, live quizzes, AI tutor, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
